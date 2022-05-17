@@ -1,2 +1,2 @@
 # Tescik
-chwilowty
+chwilowy
